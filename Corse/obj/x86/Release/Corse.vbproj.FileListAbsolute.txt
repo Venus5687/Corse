@@ -1,0 +1,23 @@
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.Form1.resources
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.Resources.resources
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.vbproj.GenerateResource.Cache
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.exe
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.xml
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Release\Corse.pdb
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Release\Corse.exe
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Release\Corse.pdb
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Release\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Release\Corse.exe.manifest
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Release\Corse.application
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Release\Corse.exe
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Release\Corse.pdb
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Release\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.Form1.resources
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.Resources.resources
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.vbproj.GenerateResource.Cache
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.TrustInfo.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.exe.manifest
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.application
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.exe
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Release\Corse.pdb

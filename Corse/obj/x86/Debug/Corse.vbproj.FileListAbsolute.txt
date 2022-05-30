@@ -1,0 +1,25 @@
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.vbprojResolveAssemblyReference.cache
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.Form1.resources
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.Resources.resources
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.vbproj.GenerateResource.Cache
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.exe
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.xml
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\obj\x86\Debug\Corse.pdb
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Debug\Corse.exe
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Debug\Corse.pdb
+C:\Users\Portatile 2\AppData\Local\Temporary Projects\Corse\bin\Debug\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.exe
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.pdb
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Debug\Corse.exe
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Debug\Corse.pdb
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Debug\Corse.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.vbprojResolveAssemblyReference.cache
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.Form1.resources
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.Resources.resources
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.vbproj.GenerateResource.Cache
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Debug\Corse.exe.manifest
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\bin\Debug\Corse.application
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.TrustInfo.xml
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.exe.manifest
+C:\Users\Portatile 2\documents\visual studio 2010\Projects\Corse\Corse\obj\x86\Debug\Corse.application
