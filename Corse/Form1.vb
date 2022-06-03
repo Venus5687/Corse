@@ -234,6 +234,9 @@
         RadioButton4.ForeColor = Color.Black
         RadioButton5.ForeColor = Color.Black
         RadioButton6.ForeColor = Color.Black
+        RadioButton7.ForeColor = Color.Black
+        RadioButton8.ForeColor = Color.Black
+        RadioButton9.ForeColor = Color.Black
     End Sub
 
     Private Sub RadioButton6_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton6.CheckedChanged
@@ -256,6 +259,9 @@
         RadioButton4.ForeColor = Color.White
         RadioButton5.ForeColor = Color.White
         RadioButton6.ForeColor = Color.White
+        RadioButton7.ForeColor = Color.White
+        RadioButton8.ForeColor = Color.White
+        RadioButton9.ForeColor = Color.White
     End Sub
 
     Private Sub RadioButton7_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton7.CheckedChanged
@@ -272,12 +278,18 @@
         Label3.ForeColor = Color.Black
         Label2.ForeColor = Color.Black
         Label1.ForeColor = Color.Black
+        Label3.ForeColor = Color.Black
+        Label2.ForeColor = Color.Black
+        Label1.ForeColor = Color.Black
         RadioButton1.ForeColor = Color.Black
         RadioButton2.ForeColor = Color.Black
         RadioButton3.ForeColor = Color.Black
         RadioButton4.ForeColor = Color.Black
         RadioButton5.ForeColor = Color.Black
         RadioButton6.ForeColor = Color.Black
+        RadioButton7.ForeColor = Color.Black
+        RadioButton8.ForeColor = Color.Black
+        RadioButton9.ForeColor = Color.Black
     End Sub
 
     Private Sub RadioButton8_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton8.CheckedChanged
@@ -300,6 +312,9 @@
         RadioButton4.ForeColor = Color.Black
         RadioButton5.ForeColor = Color.Black
         RadioButton6.ForeColor = Color.Black
+        RadioButton7.ForeColor = Color.Black
+        RadioButton8.ForeColor = Color.Black
+        RadioButton9.ForeColor = Color.Black
     End Sub
 
     Private Sub RadioButton9_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton9.CheckedChanged
@@ -322,5 +337,8 @@
         RadioButton4.ForeColor = Color.Black
         RadioButton5.ForeColor = Color.Black
         RadioButton6.ForeColor = Color.Black
+        RadioButton7.ForeColor = Color.Black
+        RadioButton8.ForeColor = Color.Black
+        RadioButton9.ForeColor = Color.Black
     End Sub
 End Class

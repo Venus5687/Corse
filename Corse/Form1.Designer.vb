@@ -342,9 +342,9 @@ Partial Class Form1
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(163, 22)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(167, 39)
+        Me.Label2.Size = New System.Drawing.Size(186, 39)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Corse 2.2"
+        Me.Label2.Text = "Corse 2.2a"
         '
         'PictureBox4
         '
@@ -454,7 +454,7 @@ Partial Class Form1
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form1"
-        Me.Text = "Corse 2.2"
+        Me.Text = "Corse 2.2a"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
         Me.TabPage1.PerformLayout()
